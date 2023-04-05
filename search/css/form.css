@@ -1,0 +1,13 @@
+@media (min-width: 481px){
+    .upform{
+        background-color: #44b85c;
+        padding-top: 20px;
+    }
+}
+
+@media (max-width: 480px){
+    .upform{
+        background-color: #44b85c;
+        padding-top: 15px;
+    }
+}

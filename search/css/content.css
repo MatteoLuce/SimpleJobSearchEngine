@@ -1,0 +1,38 @@
+.res_desc {
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 1px;
+    letter-spacing: 0.1px;
+}
+
+.buttona{
+    background: #fff;
+    color: #2A2727;
+    text-align: center;
+    align-items: center;
+    height: 40px;
+    justify-content: flex-start;
+    line-height: 1.5;
+    font-weight: 500;
+    width: 100%;
+    display: flex;
+}
+
+@media (min-width: 769px){
+    h1.title.desc {
+        text-align: right;
+        margin-right: 11px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-weight: 300;
+    }
+}
+
+@media (max-width: 768px){
+    h1.title.desc {
+        text-align: right;
+        margin-right: 11px;
+        margin-top: -55px;
+        font-weight: 300;
+    }
+}

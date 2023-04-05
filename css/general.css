@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+    font-family: 'Roboto';
+    background-image: url("img/bg-work.jpeg");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.title-desc{
+    background-color: rgb(247, 244, 244);
+    width: 20%;
+    position: absolute;
+    left: 50%;
+    top: -32px;
+    transform: translate(-50%);
+    border-radius: 15px;
+    border: 1px solid black;
+    padding-bottom: 2px;
+}
+
